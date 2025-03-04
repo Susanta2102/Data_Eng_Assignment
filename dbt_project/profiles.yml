@@ -1,0 +1,11 @@
+company_data:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      port: 3306
+      schema: company_data
+      database: company_data
+      username: pipeline_user
+      password: secure_password

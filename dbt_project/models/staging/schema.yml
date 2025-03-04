@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: company_data  # Your MySQL database name
+    tables:
+      - name: common_crawl_raw
+      - name: abr_raw
