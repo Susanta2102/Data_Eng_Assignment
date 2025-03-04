@@ -1,6 +1,6 @@
 # Data Engineering Assignment
 
-![Data Pipeline](https://via.placeholder.com/800x200?text=Australian+Company+Data+Pipeline)
+
 
 ## Project Overview
 
